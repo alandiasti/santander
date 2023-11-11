@@ -5,3 +5,7 @@
 # Salvando modificações no git 
 
 ## Salavando motificação 
+
+* usando o comando git restore
+
+* Comando git push 
