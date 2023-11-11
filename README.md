@@ -10,4 +10,6 @@
 
 * Comando git push
 
-* Comando pull 
+* Comando pull
+
+* comando git fatch 
