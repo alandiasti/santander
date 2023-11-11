@@ -8,4 +8,6 @@
 
 * usando o comando git restore
 
-* Comando git push 
+* Comando git push
+
+* Comando pull 
